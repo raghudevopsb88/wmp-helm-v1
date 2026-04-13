@@ -1,5 +1,4 @@
 appName: analytics-service
-replicas: 2
 appPort: 8000
 serviceType: ClusterIP
 config_values:

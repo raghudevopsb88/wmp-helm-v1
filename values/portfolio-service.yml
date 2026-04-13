@@ -1,5 +1,4 @@
 appName: portfolio-service
-replicas: 2
 appPort: 8080
 serviceType: ClusterIP
 config_values:

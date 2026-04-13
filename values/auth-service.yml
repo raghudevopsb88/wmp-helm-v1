@@ -1,5 +1,4 @@
 appName: auth-service
-replicas: 2
 appPort: 8081
 serviceType: ClusterIP
 config_values:
