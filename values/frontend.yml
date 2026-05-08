@@ -4,3 +4,5 @@ serviceType: ClusterIP
 config_values:
   test: test
 
+ingress:
+  enabled: true
