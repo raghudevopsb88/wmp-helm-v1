@@ -1,6 +1,6 @@
 appName: frontend
 appPort: 80
-serviceType: LoadBalancer
+serviceType: ClusterIP
 config_values:
   test: test
 
